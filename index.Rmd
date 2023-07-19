@@ -197,7 +197,7 @@ prod(1:5)
 | `ctr + x`  | Cortar          |
 
 
-## Asignacion de nombres a objetos
+## Asignación de nombres a objetos
 Si bien se puede hacer con los operadores `=` o `<-`. Aqui vamos a utilizar el `<-` (el
 `=` los reservaremos para los parámetros de las funciones)
 
